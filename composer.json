@@ -1,9 +1,9 @@
 {
-    "name": "thesoultaker48/server_yametrika",
+    "name": "avdeevsv91/server_yametrika",
     "description": "Server-side tracking of visitors using Yandex.Metrika",
     "license": "MIT",
     "keywords": ["yandex-metrika"],
-    "homepage": "https://github.com/thesoultaker48/server_yametrika",
+    "homepage": "https://github.com/avdeevsv91/server_yametrika",
     "authors": [
         {
             "name": "Denis Seleznev",
@@ -11,7 +11,7 @@
         },
         {
             "name": "Sergey Avdeev",
-            "email": "thesoultaker48@gmail.com"
+            "email": "avdeevsv91@gmail.com"
         }
     ],
     "minimum-stability": "stable",
